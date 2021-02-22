@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "My Emberjs: Open related files",
+		"command": "related_ember_files"
+	}
+]
