@@ -2,5 +2,8 @@
 	{
 		"caption": "My Emberjs: Open related files",
 		"command": "related_ember_files"
+	}, {
+		"caption": "My Emberjs: format code with Prettier",
+		"command": "my_prettier"
 	}
 ]
