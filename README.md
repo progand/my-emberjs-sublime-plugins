@@ -19,3 +19,15 @@ Opens related emberjs files:
 ]
 ```
 
+## MyPrettier
+
+Runs local Prettier to format entire saved file. Selection or buffer format is not supported yet.
+
+### Example keybinding
+
+```
+[
+...
+{ "keys": ["ctrl+alt+f"], "command": "my_prettier" },
+...
+]
